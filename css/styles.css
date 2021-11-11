@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  background-color: #9D9D9D;
+}
+/* Navbar section*/
+#bar_nav{
+  padding: 2% 3%;
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+/* Main section */
+.virtual{
+  font-family: "Ubuntu";
+  font-weight: 700;
+  line-height: 2;
+  text-align: left;
+  padding: 2% 4%;
+}
+.first-img{
+  padding: 3% 4%;
+  width: 90%;
+}
+/* The Event Section */
+h1, h2, h3, h4{
+  font-family: "Ubuntu";
+  font-weight: 900;
+}
+p{
+  font-family: "Ubuntu";
+  font-weight: 400;
+  line-height: 1.5;
+}
+/* Agenda Section */
+.list-unstyled{
+  text-align: center;
+  line-height: 2;
+}
+
+/* Speakers section */
+.img-f2, .img-f3{
+  border-radius: 100%;
+  width: 20%;
+  margin: 5%;
+}
+.img-f3{
+  width: 50%;
+}
+/* Footer section */
+.footer-icons{
+  margin: 5% 3% 7% 0;
+  color: #B91646;
+}
+.footer-icons:hover{
+  color: #09009B;
+}
